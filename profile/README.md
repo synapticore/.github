@@ -2,7 +2,7 @@
 
 # 🔬 synapticore
 
-**Scientific Computing & Astronomical Data Analysis**
+**Scientific Computing & Spatial Intelligence**
 
 ---
 
