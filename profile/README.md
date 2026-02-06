@@ -40,7 +40,7 @@
 | [earth2studio](https://github.com/synapticore-io/earth2studio) | Deep-learning framework for AI weather and climate workflows |
 | [illustris](https://github.com/synapticore-io/illustris) | IllustrisTNG public data release — cosmological simulation tools |
 | [marimo-flow](https://github.com/synapticore-io/marimo-flow) | Interactive ML notebooks with reactive updates, AI assistance, and MLflow tracking |
-| [paper-search-cli](https://github.com/synapticore-io/paper-search-cli) | MCP server for academic paper search across 11 platforms with SurrealDB knowledge graph and Docling document processing |
+| [paper-search-mcp](https://github.com/synapticore-io/paper-search-mcp) | MCP server for academic paper search across 11 platforms with SurrealDB knowledge graph and Docling document processing |
 
 ### Machine Learning & PyTorch
 
